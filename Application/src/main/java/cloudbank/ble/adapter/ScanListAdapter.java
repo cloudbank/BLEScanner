@@ -13,6 +13,8 @@ import android.widget.TextView;
 
 import java.util.List;
 
+import butterknife.BindView;
+import butterknife.ButterKnife;
 import cloudbank.ble.R;
 import cloudbank.ble.model.BLEDevice;
 
@@ -40,16 +42,14 @@ public class ScanListAdapter extends RecyclerView.Adapter<ScanListAdapter.ViewHo
     }
 
     public static class ViewHolder extends RecyclerView.ViewHolder {
-        // TextView tags;
-        TextView name;
-        TextView rssi;
-        TextView record;
+        @BindView(R.id.device_name) TextView name;
+        @BindView(R.id.rssi) TextView rssi;
+        @BindView(R.id.record) TextView record;
 
         public ViewHolder(final View itemView, final OnItemClickListener listener) {
             super(itemView);
-            name = (TextView) itemView.findViewById(R.id.device_name);
-            rssi = (TextView) itemView.findViewById(R.id.rssi);
-            record = (TextView) itemView.findViewById(R.id.record);
+
+            ButterKnife.bind(this, itemView);
 
 
         }
