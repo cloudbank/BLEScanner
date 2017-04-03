@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <!-- Menu items -->
+    <string name="Scanning">Scanning</string>
+    <string name="StartScan">Start Scan</string>
+    <string name="bledevice">BLEDevice</string>
+    <string name="rssi">RSSI</string>
+    <string name="record">Record</string>
+    <string name="local_service_stopped">broadcast service stopped</string>
+    <string name="local_service_started">broadcast service started</string>
+    <string name="local_service_label">broadcast service notification</string>
+</resources>

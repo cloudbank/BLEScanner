@@ -1,0 +1,7 @@
+#Mon Apr 03 00:25:01 PDT 2017
+base.0=/Users/sabine/github/BLEScanner/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_55abdf880c89df533e6bfcafd13495d50549207a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/sabine/github/BLEScanner/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4580e52117759a5f95a28325e6fa9794ea229b1b/classes.dex
+base.1=/Users/sabine/github/BLEScanner/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4580e52117759a5f95a28325e6fa9794ea229b1b
+file.0=/Users/sabine/github/BLEScanner/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_55abdf880c89df533e6bfcafd13495d50549207a/classes.dex

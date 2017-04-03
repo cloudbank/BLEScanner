@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sabine/github/BLEScanner/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/sabine/.android/build-cache/df7636c16e8f62ba0f0264efb6ea8a8460606011/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/sabine/github/BLEScanner/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/sabine/.android/build-cache/df7636c16e8f62ba0f0264efb6ea8a8460606011/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/sabine/github/BLEScanner/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/sabine/.android/build-cache/df7636c16e8f62ba0f0264efb6ea8a8460606011/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/sabine/github/BLEScanner/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/sabine/.android/build-cache/df7636c16e8f62ba0f0264efb6ea8a8460606011/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/sabine/github/BLEScanner/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/sabine/.android/build-cache/df7636c16e8f62ba0f0264efb6ea8a8460606011/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/sabine/github/BLEScanner/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/sabine/.android/build-cache/df7636c16e8f62ba0f0264efb6ea8a8460606011/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

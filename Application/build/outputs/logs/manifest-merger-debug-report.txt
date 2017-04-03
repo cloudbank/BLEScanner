@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:20:1-53:12
+	package
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:21:5-28
+		INJECTED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:23:5-30
+		INJECTED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:22:5-28
+		INJECTED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:20:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:34:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:35:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:36:5-78
+	android:name
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:36:22-76
+application
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:40:5-51:19
+MERGED from [com.android.support:support-v13:25.1.1] /Users/sabine/.android/build-cache/57e2255c8b6646d8780e2455890c0aeeae628936/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.1] /Users/sabine/.android/build-cache/497fc1a6b36ab9cea6d3bd77b4bc124ef966d1bb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.1] /Users/sabine/.android/build-cache/ca1dc53ccd07e97acb70fdf5c0997a4dcc12a72b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/sabine/.android/build-cache/df7636c16e8f62ba0f0264efb6ea8a8460606011/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/sabine/.android/build-cache/93d29d7d35839ee7d0964821ceb1987536778a09/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/sabine/.android/build-cache/16b8f6d1a3bb07fd2ee3e54e4e6adadb2305b301/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/sabine/.android/build-cache/5ff2853279ff043bcb288a873755678cc32a1b23/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/sabine/.android/build-cache/7c8a4ebbed8c67f5a5e787bb2c3f9f83258ef7c8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/sabine/.android/build-cache/5cf7c1297eaa5ccb46fc442febeb31c611f52072/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/sabine/.android/build-cache/f28e88947386ab7e1c79ba484e11d8d6c6ff1a2b/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/sabine/.android/build-cache/18321a4bbba067c9653f22ea1dd9fee523ffa191/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/sabine/.android/build-cache/9480d544bf073fe7343ff7de5cc37cea7eb83286/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:40:18-50
+	android:icon
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:41:9-45
+	android:theme
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:42:9-65
+activity#cloudbank.ble.activity.DeviceScanActivity
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:43:9-49:20
+	android:label
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:43:19-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:45:13-48:29
+action#android.intent.action.MAIN
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:46:17-68
+	android:name
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:47:27-74
+service#cloudbank.ble.service.BroadcastService
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:50:9-61
+	android:name
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:50:18-58
+uses-sdk
+INJECTED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.1.1] /Users/sabine/.android/build-cache/57e2255c8b6646d8780e2455890c0aeeae628936/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:25.1.1] /Users/sabine/.android/build-cache/497fc1a6b36ab9cea6d3bd77b4bc124ef966d1bb/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.1.1] /Users/sabine/.android/build-cache/ca1dc53ccd07e97acb70fdf5c0997a4dcc12a72b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/sabine/.android/build-cache/df7636c16e8f62ba0f0264efb6ea8a8460606011/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] /Users/sabine/.android/build-cache/93d29d7d35839ee7d0964821ceb1987536778a09/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/sabine/.android/build-cache/16b8f6d1a3bb07fd2ee3e54e4e6adadb2305b301/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/sabine/.android/build-cache/5ff2853279ff043bcb288a873755678cc32a1b23/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/sabine/.android/build-cache/7c8a4ebbed8c67f5a5e787bb2c3f9f83258ef7c8/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/sabine/.android/build-cache/5cf7c1297eaa5ccb46fc442febeb31c611f52072/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/sabine/.android/build-cache/f28e88947386ab7e1c79ba484e11d8d6c6ff1a2b/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /Users/sabine/.android/build-cache/81d2e672930c489e60bccc4fcf47e8ea3d7eab1f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/sabine/.android/build-cache/18321a4bbba067c9653f22ea1dd9fee523ffa191/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.jakewharton:butterknife:8.5.1] /Users/sabine/.android/build-cache/da02fb0fc83682bd714925d33db06bef3d793730/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.1.1] /Users/sabine/.android/build-cache/9480d544bf073fe7343ff7de5cc37cea7eb83286/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.1.1] /Users/sabine/.android/build-cache/57e2255c8b6646d8780e2455890c0aeeae628936/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml

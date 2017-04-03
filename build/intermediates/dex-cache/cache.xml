@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sabine/github/BLEScanner/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/sabine/github/BLEScanner/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4580e52117759a5f95a28325e6fa9794ea229b1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sabine/Downloads/BluetoothLeGatt/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/sabine/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cd6e88b034b9c846a4edd3b38726231ef3bc870a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sabine/github/BLEScanner/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a657126488e6e79f551e8b249a72ec0b2d311999">
+        <dex dex="/Users/sabine/github/BLEScanner/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_55abdf880c89df533e6bfcafd13495d50549207a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sabine/Downloads/BluetoothLeGatt/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2d7e3d43811c7810e3f5ad747d9338edb54e40d">
+        <dex dex="/Users/sabine/Downloads/BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fd6ff2da74101aca6d6cf769dcbdc53ce1b799ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sabine/.android/build-cache/da02fb0fc83682bd714925d33db06bef3d793730/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/sabine/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/classes_010f455e548d8406e341f5aa7d12476096fe660c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sabine/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/sabine/Downloads/BluetoothLeGatt/Application/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_d5738269f67ee30985cb5a2f7c104927dfa961d0.jar" />
+    </item>
+
+</items>
