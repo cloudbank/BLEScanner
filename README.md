@@ -22,3 +22,11 @@ Butterknife is utilized for field and method binding for views via annotations.
 
 https://github.com/googlesamples/android-BluetoothLeGatt
 
+Timing: it would take about 20 minutes to get the android sample working exactly as you wish with minimal modifications( using the built in listview etc). It took minutes to grok the code and a few hours to get it just right with the lastest material design and api updates ( recylerview, toolbar)
+
+ Despite the changes in the API the deprecated code still works on L devices.  I addressed this with a factory for scanners.
+Things I did not addess:  java 1.8, the service and broadcast.  I added  a service and localbroadcast for notification.   The 15 sec scan really only needs a couple of handler threads; I think a service is overkill and not intended for short lived tasks.  .
+
+I also just used MVC/google lifecycle patterns.  In the future as the app grows it might need to be changed to MVP or MVVM in places.
+
+I also added minimal tests with roboeletric, which gives back the classes in the android jar using Shadows. I just added a small example for a sample.
