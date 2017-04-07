@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:20:1-53:12
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:20:1-54:12
 	package
 		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:21:5-28
 		INJECTED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml
@@ -21,24 +21,32 @@ ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.
 		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:31:64-87
 	android:name
 		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:31:19-63
+uses-feature#android.hardware.location.gps
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:32:5-66
+	android:name
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:32:19-63
+uses-feature#android.hardware.location.network
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:33:5-70
+	android:name
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:33:19-67
 uses-permission#android.permission.BLUETOOTH
-ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:33:5-67
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:34:5-67
 	android:name
-		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:33:22-65
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:34:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:34:5-73
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:35:5-73
 	android:name
-		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:34:22-71
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:35:22-71
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:35:5-80
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:36:5-80
 	android:name
-		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:35:22-78
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:36:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:36:5-78
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:37:5-78
 	android:name
-		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:36:22-76
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:37:22-76
 application
-ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:40:5-51:19
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:41:5-52:19
 MERGED from [com.android.support:support-v13:25.1.1] /Users/sabine/.android/build-cache/57e2255c8b6646d8780e2455890c0aeeae628936/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:design:25.1.1] /Users/sabine/.android/build-cache/497fc1a6b36ab9cea6d3bd77b4bc124ef966d1bb/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:transition:25.1.1] /Users/sabine/.android/build-cache/ca1dc53ccd07e97acb70fdf5c0997a4dcc12a72b/output/AndroidManifest.xml:22:5-20
@@ -52,31 +60,31 @@ MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/sabine/.
 MERGED from [com.android.support:support-core-ui:25.1.1] /Users/sabine/.android/build-cache/18321a4bbba067c9653f22ea1dd9fee523ffa191/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.1.1] /Users/sabine/.android/build-cache/9480d544bf073fe7343ff7de5cc37cea7eb83286/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:40:18-50
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:41:18-50
 	android:icon
-		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:41:9-45
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:42:9-45
 	android:theme
-		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:42:9-65
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:43:9-65
 activity#cloudbank.ble.activity.DeviceScanActivity
-ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:43:9-49:20
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:44:9-50:20
 	android:label
-		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:44:13-45
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:45:13-45
 	android:name
-		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:43:19-75
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:44:19-75
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:45:13-48:29
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:46:13-49:29
 action#android.intent.action.MAIN
-ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:46:17-68
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:47:17-68
 	android:name
-		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:46:25-66
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:47:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:47:17-76
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:48:17-76
 	android:name
-		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:47:27-74
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:48:27-74
 service#cloudbank.ble.service.BroadcastService
-ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:50:9-61
+ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:51:9-61
 	android:name
-		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:50:18-58
+		ADDED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml:51:18-58
 uses-sdk
 INJECTED from /Users/sabine/github/BLEScanner/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:support-v13:25.1.1] /Users/sabine/.android/build-cache/57e2255c8b6646d8780e2455890c0aeeae628936/output/AndroidManifest.xml:21:5-23:55
